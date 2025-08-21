@@ -2,7 +2,7 @@
 
 **Primary-standard performance with exceptionally low drift and low TCR.**
 
-!RS3-KEY-SQ.jpg)
+!RS3-KEY-SQ.jpg
 
 A precision metrology resistance standard engineered for long-term stability and low temperature coefficient. The RS-3 uses hermetic metal-foil resistor arrays immersed in silicone fluid inside an environmentally sealed, aerospace-grade aluminum enclosure. Each unit is conditioned to minimize creep, grain-boundary motion, and adhesive fatigue—delivering dependable performance for both primary and secondary calibration needs.&#x20;
 
